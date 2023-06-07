@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Jeilova Landing Page',
       theme: ThemeData(
+        useMaterial3: true,
         primarySwatch: Colors.green,
       ),
       home: const HomePage(),
