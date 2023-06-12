@@ -1,4 +1,5 @@
-# jeilova-landing-page ![image](https://github.com/adedayo924/jeilova-landing-page.github.io/assets/44504553/42b1e9d7-6d11-4981-8ad2-0be543945f96)
+![image](https://github.com/adedayo924/jeilova-landing-page.github.io/assets/44504553/42b1e9d7-6d11-4981-8ad2-0be543945f96)
+# jeilova-landing-page 
 
 A cross platform virtual assistant application built on flutter with open AI
 
