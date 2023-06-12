@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/44504553/245236929-7d6573e6-97dc-43b2-af24-fb3ebcbe952d.png" alt="Video" width="60" height="60"></h3>
+<h3 align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/44504553/245236929-7d6573e6-97dc-43b2-af24-fb3ebcbe952d.png" alt="Video" width="100" height="100"></h3>
 
 # jeilova-landing-page 
 A cross platform virtual assistant application built on flutter with open AI
