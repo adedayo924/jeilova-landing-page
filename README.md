@@ -16,7 +16,7 @@ This is an AI virtual Assistant App build on Flutter using Dart programming lang
 - Smart Voice Assistant : - Get the best of both worlds with a voice assistant powered by AI using flutter tts.
 
 
-<h3 align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/44504553/245235499-22e05fb5-030a-490e-9a95-58ffc551be30.png" alt="Video" width="50" height="50"></h3>
+<h3 align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/44504553/245235499-22e05fb5-030a-490e-9a95-58ffc551be30.png" alt="Video" width="30" height="30"></h3>
 
 ####
 <!-- Features demo Video -->
