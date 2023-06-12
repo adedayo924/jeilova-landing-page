@@ -24,7 +24,8 @@ This is an AI virtual Assistant App build on Flutter using Dart programming lang
 ## About :computer:
 This is the My ALX SE Foundations Project to mark my moving on from the [ALX](https://www.alxafrica.com/) / [Holberton School](https://www.holbertonschool.com/) Full-Stack Software Engineering Foundations Program into the Specialization phase.
 
-### Team :family: -- #### Authors :pen:
+#### Team :family: 
+######## Authors :pen:
 * *Kolade Fatai Opeyemi* :man:
 
  <a href="https://linkedin.com/in/fatai-opeyemi-kolade-9644b4154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatai-opeyemi-kolade-9644b4154" height="30" width="40" /></a>
