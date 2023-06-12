@@ -19,6 +19,8 @@ This is an AI virtual Assistant App build on Flutter using Dart programming lang
 
 <h3 align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/44504553/245235499-22e05fb5-030a-490e-9a95-58ffc551be30.png" alt="Video" width="60" height="60"></h3>
 
+![image](https://github.com/adedayo924/jeilova-landing-page.github.io/assets/44504553/1fe271ec-3619-4e34-bae9-77f18f751e53)
+
 #### :cinema:
 <!-- Features demo Video -->
 <figure class="video_container">
