@@ -1,5 +1,5 @@
-<h3 align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/44504553/245235499-22e05fb5-030a-490e-9a95-58ffc551be30.png" alt="Video" width="30" height="30"></h3>
-![image](https://github.com/adedayo924/jeilova-landing-page.github.io/assets/44504553/7d6573e6-97dc-43b2-af24-fb3ebcbe952d)
+<h3 align="center"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/44504553/245236929-7d6573e6-97dc-43b2-af24-fb3ebcbe952d.png" alt="Video" width="60" height="60"></h3>
+
 # jeilova-landing-page 
 A cross platform virtual assistant application built on flutter with open AI
 
