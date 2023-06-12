@@ -27,13 +27,11 @@ This is an AI virtual Assistant App build on Flutter using Dart programming lang
 ## About <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/44504553/245235499-22e05fb5-030a-490e-9a95-58ffc551be30.png" alt="About" width="30" height="30">
 This is the My ALX SE Foundations Project to mark my moving on from the [ALX](https://www.alxafrica.com/) / [Holberton School](https://www.holbertonschool.com/) Full-Stack Software Engineering Foundations Program into the Specialization phase.
 
+### Team <img src="https://user-images.githubusercontent.com/44504553/245235568-9cb37fbd-8744-4bf8-b5bc-840bf38f604f.png" alt="Team" width="30" height="30">  
 
+### Author <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/44504553/245235734-d02eabc2-2964-4328-878c-cd5368c1259d.png" alt="Author" width="30" height="30">   
 
-###### ![image](https://github.com/adedayo924/jeilova-landing-page.github.io/assets/44504553/9cb37fbd-8744-4bf8-b5bc-840bf38f604f)
-### Team    ###### ![image](https://github.com/adedayo924/jeilova-landing-page.github.io/assets/44504553/d02eabc2-2964-4328-878c-cd5368c1259d) 
-
-### Author    ###### ![image](https://github.com/adedayo924/jeilova-landing-page.github.io/assets/44504553/c8a29a4b-fa06-4af4-80b2-857e64c7608b)
-* *Kolade Fatai Opeyemi* 
+### * *Kolade Fatai Opeyemi* <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/44504553/245235779-c8a29a4b-fa06-4af4-80b2-857e64c7608b.png" alt="My Name" width="30" height="30">  
 
 
  <a href="https://linkedin.com/in/fatai-opeyemi-kolade-9644b4154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatai-opeyemi-kolade-9644b4154" height="30" width="40" /></a>
