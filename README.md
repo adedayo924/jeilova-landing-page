@@ -31,7 +31,7 @@ This is the My ALX SE Foundations Project to mark my moving on from the [ALX](ht
  <a href="https://linkedin.com/in/fatai-opeyemi-kolade-9644b4154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatai-opeyemi-kolade-9644b4154" height="30" width="40" /></a>
       <a href="https://twitter.com/KoladeFataiOpe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="KoladeFataiOpe1" height="30" width="40" /></a>
       <a href="https://fb.com/koladeo1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="koladeo1" height="30" width="40" /></a>
-      <a href="https://instagram.com/jeilocreative" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeilocreative" height="30" width="40" /></a>
+      <a href="https://www.instagram.com/jeilocreative/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeilocreative" height="30" width="40" /></a>
       
       
       
