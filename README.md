@@ -17,6 +17,8 @@ This is an AI virtual Assistant App build on Flutter using Dart programming lang
 
 
 ###### ![image](https://github.com/adedayo924/jeilova-landing-page.github.io/assets/44504553/97dc7040-5fb3-40f5-8456-2cc3737cc36e)
+
+####
 <!-- Features demo Video -->
 <figure class="video_container">
   <iframe src="https://github-production-user-asset-6210df.s3.amazonaws.com/44504553/245128326-bfdbbfde-c48d-4fb0-acf9-9a804f69f39f.mp4" frameborder="0" allowfullscreen="true"> </iframe>
@@ -24,23 +26,15 @@ This is an AI virtual Assistant App build on Flutter using Dart programming lang
 <!-- Features demo Video -->
 
 
-
-![image](https://github.com/adedayo924/jeilova-landing-page.github.io/assets/44504553/22e05fb5-030a-490e-9a95-58ffc551be30)
-## About 
+## About    ###### ![image](https://github.com/adedayo924/jeilova-landing-page.github.io/assets/44504553/22e05fb5-030a-490e-9a95-58ffc551be30) 
 This is the My ALX SE Foundations Project to mark my moving on from the [ALX](https://www.alxafrica.com/) / [Holberton School](https://www.holbertonschool.com/) Full-Stack Software Engineering Foundations Program into the Specialization phase.
 
 
 
-![image](https://github.com/adedayo924/jeilova-landing-page.github.io/assets/44504553/9cb37fbd-8744-4bf8-b5bc-840bf38f604f)
-### Team 
+###### ![image](https://github.com/adedayo924/jeilova-landing-page.github.io/assets/44504553/9cb37fbd-8744-4bf8-b5bc-840bf38f604f)
+### Team    ###### ![image](https://github.com/adedayo924/jeilova-landing-page.github.io/assets/44504553/d02eabc2-2964-4328-878c-cd5368c1259d) 
 
-
-
-![image](https://github.com/adedayo924/jeilova-landing-page.github.io/assets/44504553/d02eabc2-2964-4328-878c-cd5368c1259d)
-##### Author 
-
-
-![image](https://github.com/adedayo924/jeilova-landing-page.github.io/assets/44504553/c8a29a4b-fa06-4af4-80b2-857e64c7608b)
+### Author    ###### ![image](https://github.com/adedayo924/jeilova-landing-page.github.io/assets/44504553/c8a29a4b-fa06-4af4-80b2-857e64c7608b)
 * *Kolade Fatai Opeyemi* 
 
 
